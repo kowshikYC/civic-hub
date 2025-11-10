@@ -1,0 +1,29 @@
+﻿# Dependencies
+node_modules/
+server/node_modules/
+
+# Environment variables
+server/.env
+.env
+
+# Build outputs
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Uploads (but keep folder structure)
+server/uploads/*
+!server/uploads/.gitkeep
