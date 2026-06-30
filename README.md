@@ -1,4 +1,4 @@
-# CitizenSpark - Community Engagement Platform
+# CiVIC HUB - Community Engagement Platform
 
 A comprehensive civic engagement platform where citizens can report local issues, organize community events, track impact on real-time maps, and collaborate with NGOs and authorities.
 
